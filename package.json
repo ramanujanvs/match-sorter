@@ -1,7 +1,7 @@
 {
   "name": "match-sorter",
   "version": "0.0.0-semantically-released",
-  "description": "Simple, expected, and deterministic best-match sorting of an array in JavaScript",
+  "description": "Simple, expected, and deterministic best-match sorting of an array in JavaScript checking if git works",
   "main": "dist/match-sorter.cjs.js",
   "module": "dist/match-sorter.esm.js",
   "types": "dist/index.d.ts",
